@@ -12,6 +12,9 @@ At first, this might seem like it defeats the purpose of having a a blockchain, 
 
 I reccomend reading about L2 approaches in the following order.
 
-0. State Channels
-1. Plasma
-2. Rollups
+0. Side Chains (if you are not already familiar with the concept)
+1. State Channels
+2. Plasma
+3. Rollups
+4. Validium
+5. Hybrid Approaches
